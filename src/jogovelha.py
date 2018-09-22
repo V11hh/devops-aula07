@@ -1,7 +1,7 @@
 TAB = []
 def inicializar() :
 	TAB.append(['.','.','.'])
-  TAB.append(['.','.','.'])
+	TAB.append(['.','.','.'])
 	TAB.append(['.','.','.'])
 def jogar(jogador, linha, coluna):
 	if jogador !='X' and jogador != 'O':
