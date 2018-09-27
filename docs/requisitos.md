@@ -10,4 +10,6 @@ um jogo da velha.
 ocupada
 pelo 1o jogador ou ocupada pelo 2o jogador.
 
+
+
 * A aplicação deverá sinalizar o usuário atrasvés de uma mensagem quando a posição para o movimento das peças estiver ocupada para que possa fazer um novo movimento. 
